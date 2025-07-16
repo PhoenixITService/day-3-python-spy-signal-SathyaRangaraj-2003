@@ -1,4 +1,4 @@
-num=input("Enter numbers with spaces:").split(" ")
+num=input().split(" ")
 num_character=num[1::3]
 reversed=num_character[::-1]
 message=""
